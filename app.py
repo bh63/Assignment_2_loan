@@ -3,7 +3,7 @@
 
 This is a command line application to match applicants with qualifying loans.
 
-#File path : Copy   ../loan_qualifier_app/data/daily_rate_sheet.csv
+#File path : Copy   ../Assignment_2_loan/data/daily_rate_sheet.csv
 
 Example:
     $ python app.py
@@ -13,7 +13,7 @@ import sys
 import fire
 import questionary
 from pathlib import Path
-
+import csv
 
 from qualifier.utils.fileio import load_csv
 
@@ -101,26 +101,38 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     bank_data_filtered = filter_debt_to_income(monthly_debt_ratio, bank_data_filtered)
     bank_data_filtered = filter_loan_to_value(loan_to_value_ratio, bank_data_filtered)
 
+    Qualified_total = len(bank_data_filtered)
     print(f"Found {len(bank_data_filtered)} qualifying loans")
-
+    # I created a separate variable for the total loans to use later in the code
     return bank_data_filtered
 
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
-
+        this is save_csv but written out in my words
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
+    
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # saving file as CSV
-#with open(filename, mode='w') as file_qualifying:
-#    writer = csv.Dictwrtier(file_qualifying)
-#   / writer.writerow
+    with open('qualifyingloans.csv', mode='w',newline= '') as file_qualifying:
+        writer = csv.DictWriter(file_qualifying, fieldnames=["Qualifying Loans Count"])
+        writer.writeheader()
+        for bank_data_filtered in writer:
+            find_qualifying_loans(bank_data_filtered)
 
-save_csv = ("will save the qualifying_data as a csv")
 
+def save_qualifying_loan_options():
+    """Dialog for the ATM Main Menu."""
 
+    # Determines action t
+    # aken by application.
+    action = questionary.select(
+        "Would you exit with no options, save your loan otions or not save your loan options?",
+        choices=["No Loans, exit", "Save my loan options", "Don't save my loan options"],
+    ).ask()
+    return action
 
 def run():
     """The main function for running the script."""
@@ -135,9 +147,16 @@ def run():
     qualifying_loans = find_qualifying_loans(
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
-
+    
     # Save qualifying loans
-    save_qualifying_loans(qualifying_loans)
+    action = save_qualifying_loan_options()
+
+    if action == "No Loans, exit":
+        sys.exit(f"You have no qualifying loans available, good bye")
+    elif action == "Save my loan options":
+        qualifying_loans = save_qualifying_loans(qualifying_loans)
+    else:
+        qualifying_loans = print(f"You have exited the program and have not saved anything")
 
 
 if __name__ == "__main__":

@@ -8,6 +8,7 @@ When the user has options the first option will be save the file
 When the user has options the second option will be to not save the file 
 
 
+
 ---
 
 ## Technologies
@@ -34,7 +35,11 @@ In this section, you should include detailed installation notes containing code 
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
-
+The new code that was needed to create a csv file of the qualifying loans data was 
+created using a fire type options select. when the user is shown to have no valid 
+loan options prompt the user is then pushed out from the code with no csv file of 
+their options. When the user is shown to have options they can select between 
+saving their options or closing the
 
 
 

@@ -15,7 +15,7 @@ import questionary
 from pathlib import Path
 import csv
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -101,9 +101,9 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     bank_data_filtered = filter_debt_to_income(monthly_debt_ratio, bank_data_filtered)
     bank_data_filtered = filter_loan_to_value(loan_to_value_ratio, bank_data_filtered)
 
-    Qualified_total = len(bank_data_filtered)
+    # can use this code to show total : len(bank_data_filtered)
     print(f"Found {len(bank_data_filtered)} qualifying loans")
-    # I created a separate variable for the total loans to use later in the code
+    #print(f"Here are all the loan options available for your criteria {bank_data_filtered}")
     return bank_data_filtered
 
 
@@ -113,18 +113,16 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # saving file as CSV
-    with open('qualifyingloans.csv', mode='w',newline= '') as file_qualifying:
-        writer = csv.DictWriter(file_qualifying, fieldnames=["Qualifying Loans Count"])
-        writer.writeheader()
-        for bank_data_filtered in writer:
-            find_qualifying_loans(bank_data_filtered)
+
+    csvpath = Path('qualifying_loans.csv')
+    save_csv(csvpath, qualifying_loans)
+
 
 
 def save_qualifying_loan_options():
-    """Dialog for the ATM Main Menu."""
+    """Dialog for the Loan options Main Menu."""
 
     # Determines action t
     # aken by application.
@@ -148,14 +146,16 @@ def run():
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
     
+
+
     # Save qualifying loans
     action = save_qualifying_loan_options()
 
     if action == "No Loans, exit":
         sys.exit(f"You have no qualifying loans available, good bye")
     elif action == "Save my loan options":
-        qualifying_loans = save_qualifying_loans(qualifying_loans)
-    else:
+        qualifying_loans = save_qualifying_loans(qualifying_loans) #this option is breaking the code
+    else:  
         qualifying_loans = print(f"You have exited the program and have not saved anything")
 
 

@@ -124,20 +124,34 @@ def save_qualifying_loans(qualifying_loans):
 def save_qualifying_loan_options():
     """Dialog for the Loan options Main Menu."""
 
-    # Determines action t
-    # aken by application.
+    # Determines action 
+    # taken by application.
     action = questionary.select(
-        "Would you exit with no options, save your loan otions or not save your loan options?",
-        choices=["No Loans, exit", "Save my loan options", "Don't save my loan options"],
+        "Would you like to save your loan otions or not save your loan options?",
+        choices=["Exit the system with no loans" , "Save my loan options", "Don't save my loan options"],
     ).ask()
     return action
+
+'''''
+# trying to make the 0 loan options close the system automatically
+def no_qualifiying_loans():
+    """ Sub menu where the user with no options will be put"""
+    # Determines action 
+    # taken by application.
+    no_action = questionary.select(
+        "It looks like you have not loan options, you will now exit the system",
+        choices=["Exit the system"]
+    ).ask()
+    return no_action
+# just a test above
+'''''
 
 def run():
     """The main function for running the script."""
 
     # Load the latest Bank data
     bank_data = load_bank_data()
-
+    
     # Get the applicant's information
     credit_score, debt, income, loan_amount, home_value = get_applicant_info()
 
@@ -145,16 +159,14 @@ def run():
     qualifying_loans = find_qualifying_loans(
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
-    
-
-
-    # Save qualifying loans
+    # save qualifying loans by
     action = save_qualifying_loan_options()
 
     if action == "No Loans, exit":
         sys.exit(f"You have no qualifying loans available, good bye")
     elif action == "Save my loan options":
         qualifying_loans = save_qualifying_loans(qualifying_loans) #this option is breaking the code
+        print(f"You have successfully saved your qualifying loan options, Good Bye")
     else:  
         qualifying_loans = print(f"You have exited the program and have not saved anything")
 

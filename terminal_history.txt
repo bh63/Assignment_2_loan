@@ -1,0 +1,941 @@
+   50  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/02_Listing_Assets/Unsolved/listing_assets.py"
+   51  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/02_Listing_Assets/Unsolved/listing_assets.py"
+   52  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/02_Listing_Assets/Unsolved/listing_assets.py"
+   53  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   54  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   55  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   56  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   57  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   58  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   59  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   60  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   61  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   62  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   63  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   64  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   65  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   66  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/Class_1_Activities/05_Ins_Dictionaries/Solved/dicts.py"
+   67  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   68  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   69  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   70  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   71  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   72  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech Solved/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py"
+   73  conda activate base
+   74  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Hello_Python.py
+   75  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Hello_Python.py
+   76  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Hello_Python.py
+   77  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   78  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   79  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   80  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   81  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   82  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   83  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   84  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Python_Project/Variables_Finance/Variables_fin1.py
+   85  ls
+   86  conda activate
+   87  conda create -n dev python
+   88  python --version
+   89  conda activate dev
+   90  sfl$ echo ${SHELL}
+   91  echo ${SHELL}
+   92  conda init zsh
+   93  conda deactivate
+   94  ls
+   95  cd Desktop
+   96  lds
+   97  ls
+   98  cd FIntech-Workspace
+   99  Python_Project
+  100  cd Python_Project
+  101  hello_fintech.py
+  102  conda activate
+  103  conda activagte dev
+  104  conda activate dev
+  105  python --version
+  106  code . 
+  107  ls
+  108  code . 
+  109  conda search python
+  110  conda install python 3.7.7
+  111  cd desktop
+  112  cd ~
+  113  ls
+  114  conda search python
+  115  conda install python 3.7.7
+  116  cd desktop
+  117  code .
+  118  cd Fintech_workspace
+  119  cd fintech-workspace
+  120  ls
+  121  cd pythong_Project
+  122  cd python_project
+  123  ls
+  124  python Hello_Python.py
+  125  conda deactivate
+  126  cd ~
+  127  ls
+  128  company_abc_stock_price = 14.35
+  129  conda activate base
+  130  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  131  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  132  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  133  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  134  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  135  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  136  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  137  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  138  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  139  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  140  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  141  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  142  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  143  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Closing_Prices.py
+  144  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  145  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  146  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  147  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  148  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  149  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  150  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  151  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  152  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  153  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  154  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/conditional_fin.py
+  155  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/Other_true.py
+  156  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/Other_true.py
+  157  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  158  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  159  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  160  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  161  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  162  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  163  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  164  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  165  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  166  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  167  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  168  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  169  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  170  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  171  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  172  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  173  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  174  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  175  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  176  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  177  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  178  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  179  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  180  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  181  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  182  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  183  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  184  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  185  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  186  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Playing_around/comparisson.py
+  187  conda activate base
+  188  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  189  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  190  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  191  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  192  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  193  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  194  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  195  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  196  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  197  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  198  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  199  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  200  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  201  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  202  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  203  conda activate base
+  204  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.py
+  205  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.py
+  206  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.py
+  207  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.3.py
+  208  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.3.py
+  209  conda activate base
+  210  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  211  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  212  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  213  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  214  conda activate base
+  215  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  216  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  217  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  218  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  219  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  220  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  221  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  222  conda activate base
+  223  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  224  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  225  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  226  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  227  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  228  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  229  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Returned_Goods/Unsolved/returned_goods.py
+  230  conda activate base
+  231  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  232  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  233  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  234  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  235  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  236  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  237  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  238  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  239  conda activate
+  240  conda activate dev
+  241  ls
+  242  cd desktop
+  243  ls
+  244  cd fintech-workspace
+  245  cd desktop
+  246  cd .
+  247  ls
+  248  cd ..
+  249  ls
+  250  cd fintech solved
+  251  cd ..
+  252  cd desktop
+  253  cd fintech solved
+  254  cd fintech-solved
+  255  cd desktop
+  256  cd ..
+  257  cd fintech-workspace
+  258  cd ..
+  259  cd finteck-solved
+  260  cd fintech-solved
+  261  cd ..
+  262  cd fintech-workspace
+  263  cd..
+  264  cd ~
+  265  ls
+  266  conda deactivate
+  267  cd ..
+  268  conda activate base
+  269  conda activate base
+  270  percent_increase.py
+  271  ls
+  272  python run
+  273  conda activate base
+  274  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/01_Ins_Variables/Solved/variables.py"
+  275  ls
+  276  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/01_Ins_Variables/Solved/variables.py"
+  277  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/01_Ins_Variables/Solved/variables.py"
+  278  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/01_Ins_Variables/Solved/variables.py"
+  279  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  280  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  281  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  282  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  283  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  284  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  285  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  286  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  287  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  288  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  289  conda activate base
+  290  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  291  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  292  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  293  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  294  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  295  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  296  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  297  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  298  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  299  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  300  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  301  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  302  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  303  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/03_Ins_Lists/Unsolved/lists.py"
+  304  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Solved/manipulating_lists.py"
+  305  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Solved/manipulating_lists.py"
+  306  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  307  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  308  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  309  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  310  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  311  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  312  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  313  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  314  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  315  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  316  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  317  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  318  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  319  ls
+  320  conda activate base
+  321  conda activate base
+  322  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Workspace/Week-01 - Financial Programming with Python/Class_1_Activities/06_Stu_Working_with_Dictionaries/Solved/dictionaries.py"
+  323  conda activate base
+  324  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  325  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  326  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.3.py
+  327  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  328  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  329  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  330  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  331  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  332  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.5.6.py
+  333  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  334  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  335  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  336  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  337  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  338  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.2.py
+  339  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.3.py
+  340  /Users/benharrington/opt/anaconda3/bin/python
+  341  conda activate base
+  342  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  343  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  344  conda activate base
+  345  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  346  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  347  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  348  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  349  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  350  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.5.py
+  351  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.7.py
+  352  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.7.py
+  353  conda activate base
+  354  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  355  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  356  conda activate base
+  357  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.8.py
+  358  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.8.py
+  359  conda activate base
+  360  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Read_and_Write_CSV/1.6.8.py
+  361  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Read_and_Write_CSV/1.6.8.py
+  362  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Read_and_Write_CSV/1.6.8.py
+  363  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Read_and_Write_CSV/1.6.8.py
+  364  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/01_Read_and_Write_CSV/1.6.8.py
+  365  conda activate base
+  366  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  367  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  368  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  369  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  370  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  371  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  372  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  373  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  374  pwd
+  375  ls -l
+  376  ls
+  377  ls -l
+  378  time
+  379  clock
+  380  date
+  381  conda activate
+  382  conda activate dev
+  383  python --version
+  384  py --v
+  385  python --v 
+  386  python --ver
+  387  python --vers
+  388  python --versionb
+  389  python --version
+  390  ls -l
+  391  history
+  392  326
+  393  326
+  394  history ?
+  395  history /?
+  396  conda deactivate dev
+  397  conda activate dev
+  398  conda deactivate dev
+  399  conda dev
+  400  conda activate base
+  401  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  402  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  403  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  404  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  405  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  406  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  407  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  408  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Lists/Lessons_practice/1.6.9.py
+  409  python3
+  410  conda activate base
+  411  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  412  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  413  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  414  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  415  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  416  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  417  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  418  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  419  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  420  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  421  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  422  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  423  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  424  print(trader)
+  425  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  426  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  427  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  428  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  429  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  430  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  431  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  432  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  433  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Unsolved/loops.py
+  434  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  435  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  436  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  437  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  438  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  439  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/04_Ins_Conditionals/Unsolved/conditionals.py
+  440  def calculate_future_value(current_loan_value, annual_interest_rate, months_remaining):\n    future_value = current_loan_value * (1 + (annual_interest_rate / 12)) ** months_remaining\n    print("fv", future_value)\n    return future_value
+  441  python3
+  442  conda activate base
+  443  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  444  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  445  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  446  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  447  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  448  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  449  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  450  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  451  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  452  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  453  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  454  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  455  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  456  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  457  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  458  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  459  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  460  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Starter_Code/loan_analyzer.py"
+  461  conda activate base
+  462  conda activate base
+  463  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  464  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  465  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  466  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  467  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  468  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  469  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  470  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  471  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  472  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  473  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  474  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  475  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  476  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  477  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  478  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  479  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  480  conda activate base
+  481  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  482  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  483  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  484  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  485  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/08_Ins_Loops/Solved/loops.py
+  486  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  487  conda activate base
+  488  conda activate base
+  489  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Solved/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  490  conda activate base
+  491  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  492  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  493  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  494  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  495  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  496  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  497  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  498  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  499  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  500  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  501  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_1/loan_analyzer.py"
+  502  conda activate dev
+  503  pip -V
+  504  pip freeze
+  505  pip install fire
+  506  pip install questionary
+  507  cd "/Users/benharrington/Desktop/github upload"
+  508  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/github upload/loan_analyzer BH.py"
+  509  conda activate base
+  510  cd "/Users/benharrington/Desktop/github upload"
+  511  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/github upload/loan_analyzer BH.py"
+  512  conda activate base
+  513  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  514  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py"
+  515  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  516  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  517  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py"
+  518  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  519  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  520  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  521  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  522  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  523  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  524  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  525  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  526  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  527  ls
+  528  pwd
+  529  cd 01_stu_python_coide_drills
+  530  cd 01_stu_python_code_drills
+  531  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  532  ls
+  533  cd Class_1_activities
+  534  ls
+  535  cd 01_Stu_Python_Code_Drills
+  536  ls
+  537  cd ..
+  538  ls
+  539  cd 01_Stu_Python_Code_Drills
+  540  ls
+  541  cd unsolved
+  542  ls
+  543  cd 09-csv-01
+  544  ls
+  545  python3
+  546  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  547  ls
+  548  run python
+  549  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  550  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  551  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  552  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  553  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  554  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  555  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  556  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  557  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  558  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  559  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  560  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  561  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  562  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  563  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  564  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  565  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  566  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  567  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  568  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  569  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  570  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  571  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  572  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  573  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py"
+  574  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py"
+  575  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved"
+  576  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py"
+  577  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved"
+  578  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  579  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved"
+  580  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py"
+  581  conda activate base
+  582  ls
+  583  cd ..
+  584  ls
+  585  cd Resources
+  586  ls
+  587  cd..
+  588  cd ..
+  589  ls
+  590  cd Unsolved
+  591  ls
+  592  ../resources/pokemon.csv
+  593  cat ../resources/pokemon.csv
+  594  pip -V
+  595  conda activate base
+  596  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  597  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  598  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  599  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  600  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  601  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  602  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  603  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  604  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.1.5.py
+  605  conda activate base
+  606  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved"
+  607  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  608  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  609  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  610  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved"
+  611  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py"
+  612  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier"
+  613  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  614  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier"
+  615  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  616  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier"
+  617  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  618  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier"
+  619  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/qualifier/app.py"
+  620  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  621  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  622  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  623  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  624  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  625  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  626  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  627  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  628  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  629  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  630  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  631  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  632  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  633  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  634  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  635  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  636  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved"
+  637  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py"
+  638  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  639  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  640  python app.py --credit_score=750
+  641  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  642  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  643  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  644  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  645  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  646  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  647  python app.py --credit_score=750
+  648  python app.py --credit_score=890
+  649  python app.py --credit_score=750 --debt=3000 --income=30000
+  650  python app.py --credit_score=750 --debt=1000 --income=30000
+  651  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  652  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  653  python app.py --debt=1000 --income=30000
+  654  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  655  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  656  python app.py --credit_score=750 --debt=1000 --income=30000
+  657  python app.py --debt=1000 --income=30000
+  658  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved"
+  659  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py"
+  660  python app.py --debt=1000 --income=30000
+  661  python app.py --credit_score=750 --debt=1000 --income=30000
+  662  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  663  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  664  python app.py --credit_score=750 --debt=5000 --income=20000
+  665  /Users/benharrington/opt/anaconda3/bin/python
+  666  python app.py
+  667  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Solved"
+  668  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  669  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved"
+  670  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py"
+  671  conda activate base
+  672  conda activate base
+  673  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  674  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  675  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  676  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  677  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  678  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  679  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  680  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  681  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  682  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  683  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  684  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  685  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  686  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  687  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  688  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  689  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  690  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/app.py
+  691  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  692  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  693  quit
+  694  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  695  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  696  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  697  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  698  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  699  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  700  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  701  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  702  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  703  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  704  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  705  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  706  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  707  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  708  python 2.3.3.py
+  709  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  710  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  711  python 2.3.3.py --pants=True
+  712  python 2.3.3.py
+  713  python 2.3.3.py
+  714  python 2.3.3.py
+  715  python 2.3.3.py
+  716  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  717  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  718  python 2.3.3.py --pants=True
+  719  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  720  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.5.py
+  721  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  722  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.5.py
+  723  python 2.3.5.py
+  724  python 2.3.5.py
+  725  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  726  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.5.py
+  727  touch
+  728  install fire
+  729  import fire
+  730  fire
+  731  pip install fire
+  732  pip install questionary
+  733  python3
+  734  stock_price = {"MSFT" : "200"}
+  735  conda activate base
+  736  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm"
+  737  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  738  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved"
+  739  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Loan_Qualifier_Financial_Calculations/Solved/app.py"
+  740  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm"
+  741  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  742  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm"
+  743  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  744  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm"
+  745  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py"
+  746  conda activate base
+  747  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  748  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  749  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  750  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  751  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  752  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  753  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  754  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  755  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  756  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  757  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  758  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  759  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  760  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  761  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  762  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  763  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  764  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  765  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  766  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  767  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  768  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  769  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  770  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  771  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  772  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  773  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  774  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  775  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  776  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  777  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  778  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/Class2_playground.py
+  779  conda activate base
+  780  conda activate base
+  781  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali"
+  782  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/01_Modularize_Your_Loan_Qualifier_Application/quali/app.py"
+  783  git config --global bh63
+  784  git config --global user.name bh63
+  785  conda activate
+  786  conda acticate dev
+  787  conda activate dev
+  788  git config --global user.name bh63
+  789  git config --global user.email ben.o.harrington@gmail.com
+  790  git clone https://github.com/bh63/Assignments.git
+  791  conda deactivate de
+  792  conda deactivate dev
+  793  conda activate dev
+  794  conda deactivate dev
+  795  pip install os_sys
+  796  pip install sys
+  797  conda activate base
+  798  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Solved"
+  799  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Adding_questionary_to_Loan_Qualifier/Solved/app.py"
+  800  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved"
+  801  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  802  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved"
+  803  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/02_Loan_Qualifier_Filtering_Data/Solved/app.py"
+  804  conda activate base
+  805  cd "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app"
+  806  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app/app.py"
+  807  cd "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app"
+  808  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app/app.py"
+  809  cd "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app"
+  810  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app/app.py"
+  811  cd "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app"
+  812  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app/app.py"
+  813  cd "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app"
+  814  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Module Assignments/Assignment_2/Starter_Code 2/loan_qualifier_app/app.py"
+  815  ls
+  816  cd Desktop
+  817  ls
+  818  cd github_upload
+  819  git clone git@github.com:bh63/Assignment_2_loan.git
+  820  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  821  ls
+  822  cd..
+  823  ls
+  824  ..
+  825  cd ..
+  826  ls
+  827  cd ..
+  828  cd ..
+  829  ls
+  830  cd benharrington
+  831  ls
+  832  ls -al~/,ssh
+  833  ls -al~/.ssh
+  834  ls
+  835  ls -al ~/.ssh
+  836  ssh-keygen -t rsa -b 4096 -C "ben.o.harrington@gmail.com"
+  837  eval "$(ssh-agent -s)"
+  838  ssh-add ~/.ssh/id_rsa
+  839  pbcopy < ~/.ssh/id_rsa.pub
+  840  ssh -T git@gitbuh.com
+  841  ssh -T git@github.com
+  842  ssh -T git@github.com
+  843  git clone git@github.com:bh63/Assignment_2_loan.git
+  844  cd Assignment_2_loan
+  845  ls
+  846  git exit
+  847  cs ..
+  848  cd ..
+  849  ls
+  850  cd Assignment_2_loan
+  851  ls
+  852  conda activate base
+  853  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Solved/atm"
+  854  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py"
+  855  cd "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Solved/atm"
+  856  /Users/benharrington/opt/anaconda3/bin/python "/Users/benharrington/Desktop/Fintech-Solved/Week 2/Class_2_Activities/02_Stu_Build_ATM_Functions/Solved/atm/atm.py"
+  857  ls
+  858  cd Assignment_2_loan
+  859  ls
+  860  git diff
+  861  git clone git@github.com:bh63/Assignment_2_loan.git
+  862  ls
+  863  cd Assignment_2_loan
+  864  ls
+  865  git ls
+  866  cd Assignment_2_loan
+  867  cd ..
+  868  ls
+  869  cd Assignment_2_loan
+  870  ls
+  871  git add -A
+  872  git commit -m "this is an updated app.py file and README files, the app almost works"
+  873  git push origin master
+  874  git push origin main
+  875  conda activate base
+  876  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  877  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  878  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  879  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  880  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  881  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  882  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  883  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  884  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  885  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  886  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  887  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  888  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  889  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  890  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  891  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  892  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  893  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  894  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  895  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  896  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  897  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  898  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  899  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  900  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  901  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  902  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  903  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  904  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  905  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  906  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  907  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  908  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  909  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  910  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  911  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  912  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  913  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  914  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  915  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  916  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  917  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  918  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  919  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  920  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  921  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  922  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  923  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  924  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  925  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  926  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  927  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  928  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  929  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  930  ank_data_filteredcd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  931  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  932  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  933  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  934  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  935  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  936  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  937  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  938  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  939  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  940  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  941  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  942  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  943  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  944  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  945  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  946  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  947  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  948  cd /Users/benharrington/Assignment_2_loan/Assignment_2_loan
+  949  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Assignment_2_loan/Assignment_2_loan/app.py
+  950  conda activate base
+  951  conda activate base
+  952  cd /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2
+  953  /Users/benharrington/opt/anaconda3/bin/python /Users/benharrington/Desktop/Fintech-Workspace/Module_Practice/Week_2/2.3.3.py
+  954  conda activate dev
+  955  conda list pandas
+  956  conda list jupyterlab
+  957  conda deactivate
+  958  conda remove --name dev --all
+  959  conda info --envs
+  960  conda update conda
+  961  conda update anaconda
+  962  conda create -n dev
+  963  conda create -n dev python=3.7 anaconda
+  964  conda info --envs
+  965  conda activate dev
+  966  conda list pandas
+  967  conda list jupyterlab
+  968  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  969  jupyter lab
+  970  conda deactivate dev
+  971  conda deactivate
+  972  ls
+  973  cd Assignment_2_loam
+  974  cd Assignment_2_loan
+  975  git push Assignment_2_loan
+  976  git add Assignment_2_loan
+  977  git rm --cached Assignment_2_loan
+  978  git add --all
+  979  git commit -m "added function to create csv of loan options"
+  980  git push
+  981  git push origin main
+  982  ls
+  983  cd Assignment_2_loan
+  984  ls
+  985  cd Assignment_2_loan
+  986  ls
+  987  git add -A
+  988  git commit -m "created function to create the CSV file of loan options"
+  989  git push origin main
+  990  ls

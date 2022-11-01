@@ -37,8 +37,7 @@ This section should include screenshots, code blocks, or animations explaining h
 
 Welcome to the Loan Qualifier program!
 
-To being using this program you will run the code and enter the following file name to pull the latest rates.
-../Assignment_2_loan/data/daily_rate_sheet.csv
+To being using this program you will run the code and this will load the daily rates in for you fro '../Assignment_2_loan/data/daily_rate_sheet.csv' 
 
 Now that you have the latest daily rates you can begin answering some basic loan application questions. 
 
@@ -62,9 +61,6 @@ Don't save my loan options
     The program kicks the user without saving any new file. 
 
 
-
-When the user is shown to have options they can select between 
-saving their options or closing the system. 
 
 
 ---

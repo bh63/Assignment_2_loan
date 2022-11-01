@@ -29,14 +29,14 @@ from qualifier.filters.loan_to_value import filter_loan_to_value
 
 
 def load_bank_data():
-    """Ask for the file path to the latest banking data and load the CSV file.
+    """Find the file path to the latest banking data and load the CSV file.
 
     Returns:
         The bank data from the data rate sheet CSV file.
     """
 
-    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
-    csvpath = Path(csvpath)
+    #csvpath = questionary.select("Enter a file path to a rate-sheet (.csv):").ask()
+    csvpath = Path('../Assignment_2_loan/data/daily_rate_sheet.csv')
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 

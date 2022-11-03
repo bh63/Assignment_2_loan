@@ -117,7 +117,8 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # saving file as CSV
 
-    csvpath = Path(questionary.text('Give your qualifying loan options file a name (.csv):').ask()+ '.csv')
+    csvpath = Path(questionary.text('Give your qualifying loan options file a name (.csv):')
+    .ask()+ '.csv')
     save_csv(csvpath, qualifying_loans)
 
 
@@ -129,23 +130,11 @@ def save_qualifying_loan_options():
     # taken by application.
     action = questionary.select(
         "Would you like to save your loan otions or not save your loan options?",
-        choices=["Exit the system with no loans" , "Save my loan options", "Don't save my loan options"],
+        choices=["0 Loan options, Exit the program" , "Save my loan options", 
+        "Don't save my loan options"],
     ).ask()
     return action
 
-'''''
-# trying to make the 0 loan options close the system automatically
-def no_qualifiying_loans():
-    """ Sub menu where the user with no options will be put"""
-    # Determines action 
-    # taken by application.
-    no_action = questionary.select(
-        "It looks like you have not loan options, you will now exit the system",
-        choices=["Exit the system"]
-    ).ask()
-    return no_action
-# just a test above
-'''''
 
 def run():
     """The main function for running the script."""
@@ -163,11 +152,11 @@ def run():
     # save qualifying loans by
     action = save_qualifying_loan_options()
 
-    if action == "No Loans, exit":
+    if action == "0 Loan options, Exit the program":
         sys.exit(f"You have no qualifying loans available, good bye")
     elif action == "Save my loan options":
         qualifying_loans = save_qualifying_loans(qualifying_loans) #this option is breaking the code
-        print(f"You have successfully saved your qualifying loan options, Good Bye")
+        print(f"You have successfully saved your qualifying loan options, Come back soon!")
     else:  
         qualifying_loans = print(f"You have exited the program and have not saved anything")
 

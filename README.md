@@ -19,6 +19,11 @@ Using this program the user can determine if they are eligable for a or multiple
 
 This code was created with Python 3.9
 
+* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint.
+
+* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+* [sys](https://pypi.org/project/os-sys/) - For better operating and interpreting as it provides access to the variables and functions that can be manipulated
+
 
 ---
 
@@ -26,12 +31,11 @@ This code was created with Python 3.9
 
 "In this section, you should include detailed installation notes containing code blocks and screenshots."
 
-pip install (Orage Word)
+'''python
+pip install fire
+pip install questionary
+'''
 
-* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint.
-
-* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
-* [sys](https://pypi.org/project/os-sys/) - For better operating and interpreting as it provides access to the variables and functions that can be manipulated
 
 ---
 
@@ -39,15 +43,27 @@ pip install (Orage Word)
 
 This section should include screenshots, code blocks, or animations explaining how to use your project.
 
+To use the loan qualifier application simply clone the repository and run the **app.py** with
+
+
+
 Welcome to the Loan Qualifier program!
 
-To being using this program you will run the code and this will load the daily rates in for you fro '../Assignment_2_loan/data/daily_rate_sheet.csv' 
+To begin enter
+
+```python
+python app.py
+```
+
+
+The code automatically pulls the daily_rate_sheet from this file location '../Assignment_2_loan/data/daily_rate_sheet.csv' 
 
 ![Loan Qualifier Prompts](screenshots_of_code/csvpath.png)
 
 Now that you have the latest daily rates you can begin answering some basic loan application questions. 
 
-The applicantn has to provide answers for the following questions:
+
+The applicant has to provide answers for the following questions:
 What's your credit score? ____
 ^credit_score.py understands user Credit score
 
@@ -63,12 +79,14 @@ What's your home value? ____
 
 These quesitons are pulled from filter folder in our code. These Modules each interpret the data provided by the user and calculate if the user is eligable for any of the loans available. 
 
-After the questions are answered the program spits out a number of loan options available. From here the user is prompted to answer a few quesitons.
+After the questions are answered the program spits out a number of loan options available. 
 
 ![Loan Qualifier Prompts](screenshots_of_code/Loan_calc_options.png)
 
 Code for the questionary shows the following options to pick from
 ![Loan Qualifier Prompts](screenshots_of_code/Question_loan.png)
+
+From here the user is prompted to answer a few quesitons.
 
 0 Loan options, Exit the program
     this option kicks the user out of the program and back to the terminal
